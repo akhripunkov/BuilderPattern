@@ -1,0 +1,11 @@
+C:\Users\Александр\source\repos\PatternBuilder\PatternBuilder\bin\Debug\netcoreapp2.2\PatternBuilder.deps.json
+C:\Users\Александр\source\repos\PatternBuilder\PatternBuilder\bin\Debug\netcoreapp2.2\PatternBuilder.runtimeconfig.json
+C:\Users\Александр\source\repos\PatternBuilder\PatternBuilder\bin\Debug\netcoreapp2.2\PatternBuilder.runtimeconfig.dev.json
+C:\Users\Александр\source\repos\PatternBuilder\PatternBuilder\bin\Debug\netcoreapp2.2\PatternBuilder.dll
+C:\Users\Александр\source\repos\PatternBuilder\PatternBuilder\bin\Debug\netcoreapp2.2\PatternBuilder.pdb
+C:\Users\Александр\source\repos\PatternBuilder\PatternBuilder\obj\Debug\netcoreapp2.2\PatternBuilder.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\PatternBuilder\PatternBuilder\obj\Debug\netcoreapp2.2\PatternBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\PatternBuilder\PatternBuilder\obj\Debug\netcoreapp2.2\PatternBuilder.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\PatternBuilder\PatternBuilder\obj\Debug\netcoreapp2.2\PatternBuilder.AssemblyInfo.cs
+C:\Users\Александр\source\repos\PatternBuilder\PatternBuilder\obj\Debug\netcoreapp2.2\PatternBuilder.dll
+C:\Users\Александр\source\repos\PatternBuilder\PatternBuilder\obj\Debug\netcoreapp2.2\PatternBuilder.pdb
